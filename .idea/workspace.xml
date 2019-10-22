@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="641baadb-e907-4491-93ed-2b3e661f307a" name="Default" comment="" />
+    <list default="true" id="641baadb-e907-4491-93ed-2b3e661f307a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jiekou/HT.py" afterPath="$PROJECT_DIR$/jiekou/HT.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jiekou/test_case1.py" afterPath="$PROJECT_DIR$/jiekou/test_case1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jiekou/test_cx.py" afterPath="$PROJECT_DIR$/jiekou/test_cx.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jiekou/test_user.py" afterPath="$PROJECT_DIR$/jiekou/test_user.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,18 +17,29 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/接口自动化个人$HT.coverage" NAME="HT Coverage Results" MODIFIED="1571300284728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/connector$test_case1.coverage" NAME="test_case1 Coverage Results" MODIFIED="1571731160811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiekou" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HT.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HT.py">
+    <leaf>
+      <file leaf-file-name="HTMLTestReportCN.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jiekou/HTMLTestReportCN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HT.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jiekou/HT.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -30,67 +47,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zkhkj.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page/zkhkj.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="test_case1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/case/test_case1.py">
+        <entry file="file://$PROJECT_DIR$/jiekou/test_case1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <state relative-caret-position="1121">
+              <caret line="59" column="9" lean-forward="true" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
               <folding>
-                <element signature="e#0#44#0" expanded="true" />
-                <marker date="1571300284512" expanded="true" signature="841:893" ph="select * fro... sign_event" />
+                <element signature="e#0#39#0" expanded="true" />
+                <marker date="1571730744007" expanded="true" signature="846:898" ph="select * fro... sign_event" />
+                <marker date="1571730744007" expanded="true" signature="1347:1399" ph="select * fro... sign_event" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="util.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/util/util.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_add_guest.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/case/test_add_guest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="65" lean-forward="true" selection-start-line="26" selection-start-column="65" selection-end-line="26" selection-end-column="65" />
-              <folding>
-                <element signature="e#0#24#0" expanded="true" />
-                <marker date="1571726525419" expanded="true" signature="1015:1103" ph="select * fro... sign_guest" />
-                <marker date="1571726525419" expanded="true" signature="1636:1724" ph="select * fro... sign_guest" />
-                <marker date="1571726525419" expanded="true" signature="2256:2344" ph="select * fro... sign_guest" />
-                <marker date="1571726525419" expanded="true" signature="2876:2964" ph="select * fro... sign_guest" />
-                <marker date="1571726525419" expanded="true" signature="3420:3491" ph="select * fro... sign_guest" />
-                <marker date="1571726525419" expanded="true" signature="4001:4089" ph="select * fro... sign_guest" />
-                <marker date="1571726525419" expanded="true" signature="4558:4646" ph="select * fro... sign_guest" />
-                <marker date="1571726525419" expanded="true" signature="5098:5169" ph="select * fro... sign_guest" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_case.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/case/test_case.py">
+      <file leaf-file-name="test_cx.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jiekou/test_cx.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+                <marker date="1571730759346" expanded="true" signature="672:713" ph="select * fro... sign_guest" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -132,7 +111,7 @@
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -145,11 +124,32 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="connector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="connector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jiekou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jiekou/HTMLTestReportCN.py" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RecentsManager">
@@ -158,7 +158,7 @@
       <recent name="C:\Users\ND\PycharmProjects\接口自动化个人" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.HT">
+  <component name="RunManager" selected="Python.test_case1">
     <configuration default="false" name="HT" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,6 +173,24 @@
       <module name="接口自动化个人" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_case1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jiekou" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="接口自动化个人" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiekou/test_case1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -391,12 +409,14 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.HT" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test_case1" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.HT" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.test_case1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.HT" />
       </list>
     </recent_temporary>
   </component>
@@ -423,18 +443,18 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59305996" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59370077" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,405 +475,83 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HT.py">
+    <entry file="file://$PROJECT_DIR$/HT.py" />
+    <entry file="file://$PROJECT_DIR$/page/zkhkj.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_case1.py" />
+    <entry file="file://$PROJECT_DIR$/util/util.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_add_guest.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_case.py" />
+    <entry file="file://$PROJECT_DIR$/HT.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_add_guest.py" />
+    <entry file="file://$PROJECT_DIR$/util/util.py" />
+    <entry file="file://$PROJECT_DIR$/HT.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_add_guest.py" />
+    <entry file="file://$PROJECT_DIR$/page/zkhkj.py" />
+    <entry file="file://$PROJECT_DIR$/util/util.py" />
+    <entry file="file://$PROJECT_DIR$/util/HTMLTestReportCN.py" />
+    <entry file="file://$PROJECT_DIR$/HT.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_add_guest.py" />
+    <entry file="file://$PROJECT_DIR$/page/zkhkj.py" />
+    <entry file="file://$PROJECT_DIR$/util/util.py" />
+    <entry file="file://$PROJECT_DIR$/util/HTMLTestReportCN.py" />
+    <entry file="file://$PROJECT_DIR$/HT.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_add_guest.py" />
+    <entry file="file://$PROJECT_DIR$/page/zkhkj.py" />
+    <entry file="file://$PROJECT_DIR$/util/HTMLTestReportCN.py" />
+    <entry file="file://$PROJECT_DIR$/util/util.py" />
+    <entry file="file://$PROJECT_DIR$/HT.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_case1.py" />
+    <entry file="file://$PROJECT_DIR$/page/zkhkj.py" />
+    <entry file="file://$PROJECT_DIR$/util/util.py" />
+    <entry file="file://$PROJECT_DIR$/HT.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_case1.py" />
+    <entry file="file://$PROJECT_DIR$/page/zkhkj.py" />
+    <entry file="file://$PROJECT_DIR$/util/util.py" />
+    <entry file="file://$PROJECT_DIR$/util/HTMLTestReportCN.py" />
+    <entry file="file://$PROJECT_DIR$/HT.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_case1.py" />
+    <entry file="file://$PROJECT_DIR$/page/zkhkj.py" />
+    <entry file="file://$PROJECT_DIR$/util/util.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_case.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_add_guest.py" />
+    <entry file="file://$PROJECT_DIR$/jiekou/test_cx.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <marker date="1571730759346" expanded="true" signature="672:713" ph="select * fro... sign_guest" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiekou/HT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/zkhkj.py">
+    <entry file="file://$PROJECT_DIR$/jiekou/test_case1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="1121">
+          <caret line="59" column="9" lean-forward="true" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="true" />
+            <marker date="1571730744007" expanded="true" signature="846:898" ph="select * fro... sign_event" />
+            <marker date="1571730744007" expanded="true" signature="1347:1399" ph="select * fro... sign_event" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_case1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-            <marker date="1571300284512" expanded="true" signature="841:893" ph="select * fro... sign_event" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_add_guest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-            <marker date="1571726525419" expanded="true" signature="1015:1103" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="1636:1724" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="2256:2344" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="2876:2964" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="3420:3491" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="4001:4089" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="4558:4646" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="5098:5169" ph="select * fro... sign_guest" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_case.py">
+    <entry file="file://$PROJECT_DIR$/jiekou/HTMLTestReportCN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_add_guest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-            <marker date="1571726525419" expanded="true" signature="1015:1103" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="1636:1724" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="2256:2344" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="2876:2964" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="3420:3491" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="4001:4089" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="4558:4646" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="5098:5169" ph="select * fro... sign_guest" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_add_guest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="10" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-            <marker date="1571726525419" expanded="true" signature="1015:1103" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="1636:1724" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="2256:2344" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="2876:2964" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="3420:3491" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="4001:4089" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="4558:4646" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="5098:5169" ph="select * fro... sign_guest" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/zkhkj.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/HTMLTestReportCN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_add_guest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="10" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-            <marker date="1571726525419" expanded="true" signature="1015:1103" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="1636:1724" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="2256:2344" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="2876:2964" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="3420:3491" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="4001:4089" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="4558:4646" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="5098:5169" ph="select * fro... sign_guest" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/zkhkj.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/HTMLTestReportCN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_add_guest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="10" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-            <marker date="1571726525419" expanded="true" signature="1015:1103" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="1636:1724" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="2256:2344" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="2876:2964" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="3420:3491" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="4001:4089" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="4558:4646" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="5098:5169" ph="select * fro... sign_guest" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/zkhkj.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/HTMLTestReportCN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_case1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/zkhkj.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_case1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/zkhkj.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/HTMLTestReportCN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_case1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-            <marker date="1571300284512" expanded="true" signature="841:893" ph="select * fro... sign_event" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/zkhkj.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_add_guest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="65" lean-forward="true" selection-start-line="26" selection-start-column="65" selection-end-line="26" selection-end-column="65" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-            <marker date="1571726525419" expanded="true" signature="1015:1103" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="1636:1724" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="2256:2344" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="2876:2964" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="3420:3491" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="4001:4089" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="4558:4646" ph="select * fro... sign_guest" />
-            <marker date="1571726525419" expanded="true" signature="5098:5169" ph="select * fro... sign_guest" />
-          </folding>
         </state>
       </provider>
     </entry>

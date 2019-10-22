@@ -1,4 +1,4 @@
-from jiekou.zkhkj import get_data,get_database
+from zkhkj import get_data,get_database
 import requests
 import unittest
 

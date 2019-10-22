@@ -1,6 +1,6 @@
 import unittest
 import time
-from jiekou.HTMLTestReportCN import HTMLTestRunner
+from HTMLTestReportCN import HTMLTestRunner
 
 
 def get_time():
